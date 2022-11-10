@@ -1,5 +1,5 @@
 <html>
-<head> title>First PHP App</title></head>
+<head> PHP App</title></head>
 <body>
 <?php
     print("Hola Equipo!");
